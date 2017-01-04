@@ -1,0 +1,14 @@
+{
+  "name": "mqtt-receiver",
+  "version": "1.0.0",
+  "description": "a mqtt message receiver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chezs",
+  "license": "MIT",
+  "dependencies": {
+    "mqtt": "^2.0.0"
+  }
+}
